@@ -1,0 +1,18 @@
+[
+  {
+    "uuid": "e2d7c94a-7617-3f80-8269-da73ba94dd4a",
+    "name": "pineaple1000",
+    "created": "2020-10-23 14:37:27 +0200",
+    "source": "N4ns",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "7e4193b9-88f7-36c3-b6c3-37e8846d18f7",
+    "name": "pineaple100",
+    "created": "2020-10-23 14:27:04 +0200",
+    "source": "N4ns",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
