@@ -18,7 +18,7 @@ public class CustomItem {
 public  ItemStack MakeItem(){
         ItemStack is = baseItem.clone().asQuantity(1);
 
-    is.addUnsafeEnchantment(CustomEnchantmentsManager.ce,CustomModelDataID+1);
+    is.addUnsafeEnchantment(CustomEnchantmentsManager.ce,CustomModelDataID);
 
     ItemMeta im = is.getItemMeta();
     im.setDisplayName(ChatColor.RESET+name);
@@ -31,10 +31,7 @@ public  ItemStack MakeItem(){
 
     return  is;
 }
-public  CustomItem(String n,List<String> l,int id, ItemStack bi ){
-        baseItem = bi;
-        name =n;
-        lore=l;
+public  CustomItem(int id){
         CustomModelDataID=id;
 }
 }

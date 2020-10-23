@@ -9,3 +9,5 @@ commands:
     description: t
   customblock:
      description: base command for custom blocks
+  customitem:
+      description: base command for custom items
