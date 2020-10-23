@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/tools/throwing_axes/wooden_t_axe"
-  }
-}

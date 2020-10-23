@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/custom_items/glacial_items/glacial_bucket"
-  }
-}

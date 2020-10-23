@@ -1,8 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "item/custom_items/guitars/electric_guitar",
-	"layer1": "item/custom_items/guitars/electric_guitar1"
-  }
-  
-}

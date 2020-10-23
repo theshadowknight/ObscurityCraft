@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/tools/battle_axes/iron_battle_axe"
-  }
-}
