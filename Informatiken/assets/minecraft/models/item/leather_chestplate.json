@@ -1,0 +1,22 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_chestplate",
+"layer1": "item/leather_chestplate_overlay"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/custom_items/steel_items/steel_chestplate"
+    },
+{
+      "predicate": { "custom_model_data":3 },
+      "model": "item/custom_items/steel_items/steel_plate_chestplate"
+    },
+{
+      "predicate": { "custom_model_data":4 },
+      "model": "item/custom_items/beam_of_sword"
+    }
+  ]
+}

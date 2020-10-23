@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/tools/broadswords/diamond_broadsword"
+  }
+}

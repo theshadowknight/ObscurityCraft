@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/zombie_items/summon_zombie_boss"
+  }
+}

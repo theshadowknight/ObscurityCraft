@@ -1,0 +1,26 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_boots",
+"layer1": "item/leather_boots_overlay"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/custom_items/steel_items/steel_boots"
+    },
+{
+      "predicate": { "custom_model_data":3 },
+      "model": "item/custom_items/steel_items/steel_plate_boots"
+    },
+{
+      "predicate": { "custom_model_data":4 },
+      "model": "item/custom_items/guitars/steampunk_guitar"
+    },
+{
+      "predicate": { "custom_model_data":5 },
+      "model": "item/custom_items/guitars/electric_guitar"
+    }
+  ]
+}

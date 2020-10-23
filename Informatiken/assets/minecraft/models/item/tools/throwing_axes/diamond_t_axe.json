@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/tools/throwing_axes/diamond_t_axe"
+  }
+}

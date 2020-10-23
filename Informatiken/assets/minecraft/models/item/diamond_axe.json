@@ -1,0 +1,26 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/diamond_axe"
+  },
+
+  "overrides": [
+    
+{
+      "predicate": { "custom_model_data": 3 },
+      "model": "item/tools/maces/diamond_mace"
+    },
+{
+      "predicate": { "custom_model_data": 4 },
+      "model": "item/tools/battle_axes/diamond_battle_axe"
+    },
+{
+      "predicate": { "custom_model_data": 5 },
+      "model": "item/tools/daggers/diamond_dagger"
+    },
+{
+      "predicate": { "custom_model_data": 6 },
+      "model": "item/tools/spears/diamond_spear"
+    }
+  ]
+}

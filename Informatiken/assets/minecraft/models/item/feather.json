@@ -1,0 +1,62 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/feather"
+  },
+
+  "overrides": [
+    
+{
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/tools/throwing_axes/wooden_t_axe"
+    },
+{
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/tools/throwing_daggers/wooden_t_dagger"
+    },{
+      "predicate": { "custom_model_data": 3 },
+      "model": "item/tools/throwing_axes/stone_t_axe"
+    },
+{
+      "predicate": { "custom_model_data": 4 },
+      "model": "item/tools/throwing_daggers/stone_t_dagger"
+    },{
+      "predicate": { "custom_model_data": 5 },
+      "model": "item/tools/throwing_axes/iron_t_axe"
+    },
+{
+      "predicate": { "custom_model_data": 6 },
+      "model": "item/tools/throwing_daggers/iron_t_dagger"
+    },{
+      "predicate": { "custom_model_data": 7 },
+      "model": "item/tools/throwing_axes/golden_t_axe"
+    },
+{
+      "predicate": { "custom_model_data": 8 },
+      "model": "item/tools/throwing_daggers/golden_t_dagger"
+    },{
+      "predicate": { "custom_model_data": 9 },
+      "model": "item/tools/throwing_axes/diamond_t_axe"
+    },
+{
+      "predicate": { "custom_model_data": 10 },
+      "model": "item/tools/throwing_daggers/diamond_t_dagger"
+    },{
+      "predicate": { "custom_model_data": 11 },
+      "model": "item/custom_items/molten_items/molten_shiv"
+    },
+{
+      "predicate": { "custom_model_data": 12 },
+      "model": "item/custom_items/glacial_items/glacial_shiv"
+    },
+{
+      "predicate": { "custom_model_data": 13 },
+      "model": "item/custom_items/ender_items/ender_shiv"
+    },
+{
+      "predicate": { "custom_model_data": 14 },
+      "model": "item/custom_items/steel_items/kunai"
+    }
+
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/wooden_pickaxe"
+  },
+
+  "overrides": [
+    
+{
+      "predicate": { "custom_model_data": 3 },
+      "model":"item/tools/hammers/wooden_hammer"
+    }
+
+  ]
+}

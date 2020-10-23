@@ -1,0 +1,13 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/flint_and_steel"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/custom_items/molten_items/magma_and_molten_ingot"
+    }
+  ]
+}

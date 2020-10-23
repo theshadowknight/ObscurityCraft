@@ -1,0 +1,6 @@
+{
+"fear": {"category": "record","sounds": [{"name": "fear","stream": true}]},
+"trumpet": {"category": "record","sounds": [{"name": "trumpet","stream": true}]},
+"doom": {"category": "record","sounds": [{"name": "doom","stream": true}]},
+"ttfaf": {"category": "record","sounds": [{"name": "ttfaf","stream": true}]}
+}

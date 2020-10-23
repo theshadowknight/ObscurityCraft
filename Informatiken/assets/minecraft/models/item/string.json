@@ -1,0 +1,40 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/string"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/custom_items/harp"
+    },  {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/custom_items/gems/ruby"
+    },  {
+      "predicate": { "custom_model_data": 3 },
+      "model": "item/custom_items/gems/sapphire"
+    },  {
+      "predicate": { "custom_model_data": 4 },
+      "model": "item/custom_items/gems/aquamarine"
+    },  {
+      "predicate": { "custom_model_data": 5 },
+      "model": "item/custom_items/gems/topaz"
+    },{
+      "predicate": { "custom_model_data": 6 },
+      "model": "item/custom_items/rings/emerald_ring"
+    },  {
+      "predicate": { "custom_model_data": 7 },
+      "model": "item/custom_items/rings/ruby_ring"
+    },  {
+      "predicate": { "custom_model_data": 8 },
+      "model": "item/custom_items/rings/sapphire_ring"
+    },  {
+      "predicate": { "custom_model_data": 9 },
+      "model": "item/custom_items/rings/aquamarine_ring"
+    },  {
+      "predicate": { "custom_model_data": 10 },
+      "model": "item/custom_items/rings/topaz_ring"
+    }
+  ]
+}
