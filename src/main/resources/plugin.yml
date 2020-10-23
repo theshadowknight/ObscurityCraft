@@ -1,0 +1,11 @@
+name: ObscurityCraft
+version: ${project.version}
+main: pixelbreadstudios.openprojects.obscuritycraft.ObscurityCraft
+api-version: 1.16
+authors: [ PixelBreadStudios ]
+description: Simple Plugin
+commands:
+  test:
+    description: t
+  customblock:
+     description: base command for custom blocks
